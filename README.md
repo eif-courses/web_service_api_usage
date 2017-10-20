@@ -1,4 +1,4 @@
-### Pavyzdys naudojant SWING ir AWT duomenų atvaizdavimui
+### Pavyzdys su Web serviso API naudojant SWING ir AWT grafinės sąsajos bibliotekas duomenų atvaizdavimui
 
 Įvairių Web servisų APIs svetainė: (https://market.mashape.com/).
 
